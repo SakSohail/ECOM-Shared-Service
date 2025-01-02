@@ -18,7 +18,7 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "ecom-shared-service",
+  "name": "@SakSohail/ecom-shared-service",
   "author": "Sohail Karigar",
   "repository": {
     "type": "git",
