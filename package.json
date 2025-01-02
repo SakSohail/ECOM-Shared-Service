@@ -22,7 +22,7 @@
   "author": "Sohail Karigar",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SakSohail/ECOM-Shared-Service.git"
+    "url": "git+https://github.com/SakSohail/ecom-shared-service.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
